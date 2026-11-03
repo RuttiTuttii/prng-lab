@@ -1,0 +1,4 @@
+prng
+*.o
+*.ppu
+__pycache__/
